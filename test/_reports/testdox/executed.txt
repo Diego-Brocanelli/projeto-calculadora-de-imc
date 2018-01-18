@@ -1,0 +1,9 @@
+IMC
+ [x] Calcular i m c muito abaixo do peso
+ [x] Calcular i m c abaixo do peso
+ [x] Calcular i m c peso normal
+ [x] Calcular i m c acima do peso
+ [x] Calcular i m c obesidade 1
+ [x] Calcular i m c obesidade 2
+ [x] Calcular i m c obesidade 3
+
