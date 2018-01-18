@@ -1,10 +1,21 @@
 {
+    "name": "DiegoBrocanelli/CalculadoraIMC",
+    "description": "Projeto para realziação de cálculo do IMC",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Brocanelli",
+            "email": "diegod2@msn.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "DiegoBrocanelli\\": "src/"
         }
     },
     "require": {
+        "PHP":">=7.0.0",
         "phpunit/phpunit": "^6.5"
     }
 }
