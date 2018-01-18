@@ -17,5 +17,9 @@
     "require": {
         "PHP":">=7.0.0",
         "phpunit/phpunit": "^6.5"
+    },
+    "scripts":{
+        "server":"php -S localhost:8080 public/index.php",
+        "tests":"vendor/bin/phpunit test/"
     }
 }
