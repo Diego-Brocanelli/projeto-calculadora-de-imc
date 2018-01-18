@@ -4,6 +4,9 @@ declare(strict_types=1);
 use DiegoBrocanelli\Calcular\IMC;
 use PHPUnit\Framework\TestCase;
 
+/**
+ * Diego Brocanelli <diegod2@msn.com>
+ */
 final class IMCTest extends TestCase
 {
     const ALTURA = 1.73;
