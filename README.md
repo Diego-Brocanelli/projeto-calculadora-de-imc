@@ -1,6 +1,6 @@
 # Projeto Calculadora de IMC
 
-Repositório da resolução do desafio Calculadora de IMC de nível iniciante do [grupo de estudos de PHPPOO](https://github.com/training-center/php-study-group) do [Training Center](https://github.com/training-center).
+Repositório da resolução do desafio Calculadora de IMC de nível iniciante do [grupo de estudos de PHP/POO](https://github.com/training-center/php-study-group) do [Training Center](https://github.com/training-center).
 
 __Objetivo__
 
