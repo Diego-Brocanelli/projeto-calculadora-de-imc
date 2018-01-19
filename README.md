@@ -1,10 +1,10 @@
 # Projeto Calculadora de IMC
 
-Respositório da resolução do desafio Calculadora de IMC de nível iniciante do [grupo de estudos de PHPPOO](https://github.com/training-center/php-study-group) do [Training Center](https://github.com/training-center).
+Repositório da resolução do desafio Calculadora de IMC de nível iniciante do [grupo de estudos de PHPPOO](https://github.com/training-center/php-study-group) do [Training Center](https://github.com/training-center).
 
 __Objetivo__
 
-Realziar o cálculo do IMC e retornar os dados para o usuário.
+Realizar o cálculo do IMC e retornar os dados para o usuário.
 
 __Requisitos do Sistema__
 
@@ -14,8 +14,8 @@ __Requisitos do Sistema__
 
 __Instalação__
 
-Realiaze o clone do projeto em sua máquina.
-Execute o eguinte comando via terminal:
+Realize o clone do projeto em sua máquina.
+Execute o seguinte comando via terminal:
 
 ```php
 composer install
