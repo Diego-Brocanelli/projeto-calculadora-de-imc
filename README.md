@@ -39,7 +39,7 @@ composer tests
 
 __Dúvidas__
 
-Em caso dew dúvidas, favor abrir uma issue :) .
+Em caso de dúvidas, favor abrir uma issue :) .
 
 __Licença__
 
